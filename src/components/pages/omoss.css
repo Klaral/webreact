@@ -1,0 +1,29 @@
+.omossinfo{
+    border-left: 1px black solid;
+    border-right: 1px black solid;
+}
+
+.oss{
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.ossbild1{
+    width: 290px;
+    margin-top: 40px;
+    margin-bottom: 40px; 
+    margin-left: 80px;
+    border-radius: 50%;
+}
+
+@media screen and (min-width: 760px) {
+    .ossbild1 {
+    width: 290px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 350px; 
+    border-radius: 50%;
+    }    
+}

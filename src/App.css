@@ -8,7 +8,7 @@
 }
 
 .App-header {
-  background-color: #222;
+  background-color: #22h2;
   height: 150px;
   padding: 20px;
   color: white;
@@ -28,49 +28,54 @@
 }
 */
 
-.header{
-    position: relative;
-    display: block;
-    width: 100%;
-    background: #000000;
-    color: #FFFFFF;
-    height: 90px;
+
+
+body{
+    margin: 0;
+    padding: 0;
 }
 
-.logo{
-    position: absolute;
-    top: 50%; left: 15%;
-}
-
-.nav{
-    position: absolute;
-    top: 50%; right: 15%;
+.App {
+   /* border: 6px solid green; */
+    /*background-color: #BFD3C3;*/
     
 }
 
-ul li{
-    list-style-type: none;
-    display: inline-block;
-    margin-right: 20px;
+.App-logo{
+    background: #5C5C5D;
+    text-align: center;
+    height: 180px;
 }
 
-.last{
-    margin:0;
-}
-
-a{
-    font-size:  19px;
-    line-height: normal;
-    color: #FFFFFF;
-    text-decoration: none;
-    cursor: pointer;
-}
-
-a:hover{
-    color: indianred;
-    text-decoration: none;
+.logo{
+    margin-top: 20px;
+    height: 90px;
 }
 
 .container-fluid{
-    line-height: 24px;
+    display: flex;
+    flex-wrap: wrap;  
 }
+
+.container-fluid> div{
+    /*border: solid 2px black;*/
+    width: 960px;
+    /*height: 500px;*/
+    margin: 0px auto 0px auto;
+    
+}
+
+
+h1, p, ul {
+   font-family: 'Cutive Mono'; 
+}
+
+
+
+
+
+
+
+
+
+

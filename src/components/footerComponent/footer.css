@@ -1,0 +1,17 @@
+.footer {
+    position: relative;
+    display: block;
+    width: 100%;
+    background: #5C5C5D;
+    height: 100px;
+    bottom: 0px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.socialm {
+    width: 35px;
+    margin-left: 40px ;
+    margin-right: 40px;
+    cursor: pointer;
+}

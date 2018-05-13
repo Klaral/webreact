@@ -1,0 +1,20 @@
+.prisinfo{
+    border-left: 1px black solid;
+    border-right: 1px black solid;
+}
+
+h1{
+    text-align: center;
+}
+
+.pris{
+    margin-left: 350px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+@media screen and (max-width: 760px) {
+    .pris {
+        margin-left: 100px;
+    }    
+}

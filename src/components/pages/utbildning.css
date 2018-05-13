@@ -1,0 +1,11 @@
+.utbildninginfo{
+    border-left: 1px black solid;
+    border-right: 1px black solid;
+    padding-bottom: 50px;
+}
+
+.utb{
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 20px;
+}

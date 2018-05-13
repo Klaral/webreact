@@ -23,37 +23,51 @@ export default App;*/
 /************************************************************/
 
 import React, { Component } from 'react';
+import logo from './logo.png';
 import './App.css';
+import { BrowserRouter, Route, NavLink } from 'react-router-dom';
 
-import { BrowserRouter, Route, Link } from 'react-router-dom';
 
-import Header from './components/headerComponent/header';
-import Homepage from './components/pages/homePage';
+import Navbar from './components/navbarComponent/navbar';
+import Hem from './components/pages/hem';
 import Bokatid from './components/pages/bokatid';
 import Pris from './components/pages/pris';
+import Galleri from './components/pages/galleri';
+import Utbildning from './components/pages/utbildning';
+import Omoss from './components/pages/omoss';
+import Kontakt from './components/pages/kontakt';
 import Footer from './components/footerComponent/footer';
 
 
 
 class App extends Component {
   render() {
+      
     return (
+        
         <BrowserRouter>
-      <div className="App">
+        <div className="App">
         
+        <div className="App-logo">
+        <img src={logo} className="logo" alt="logo" /> 
+        </div>
+        <Navbar />
         
-    
-        <Header />
-        
-          <Route exact path='/Homepage' component={Homepage} />
+          <Route exact path='/' component={Hem} />
+          <Route exact path='/Hem' component={Hem} />
           <Route exact path='/Bokatid' component={Bokatid} />
           <Route exact path='/Pris' component={Pris} />
+          <Route exact path='/Galleri' component={Galleri} />
+          <Route exact path='/Utbildning' component={Utbildning} />
+          <Route exact path='/Omoss' component={Omoss} />
+          <Route exact path='/Kontakt' component={Kontakt} />
+        
         
         <Footer />
         
-        
-     </div>
+        </div>
         </BrowserRouter>
+        
     );
   }
 }

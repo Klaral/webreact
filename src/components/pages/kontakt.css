@@ -1,0 +1,25 @@
+.kontaktinfo{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-left: 1px black solid;
+    border-right: 1px black solid;
+}
+
+.adress{
+    margin-left: 90px;
+}
+
+@media screen and (max-width: 760px) {
+    .adress {
+        margin-left: -30px;
+    }    
+}
+
+
+@media screen and (min-width: 760px) {
+    .kartabild1 {
+        margin-left: 130px;
+        width: 700px;
+        height: 300px;
+    }    
+}

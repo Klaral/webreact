@@ -1,0 +1,49 @@
+.menybox {
+    border-top: 1px solid #FFFFFF;
+    border-bottom: 1px solid #5C5C5D;
+    border-bottom-left-radius: 1px solid #5C5C5D;
+    border-bottom-right-radius: 1px solid #5C5C5D;
+    position: relative;
+    display: block;
+    width: 100%;
+    background-color: #5C5C5D;
+    
+}
+
+@media screen and (min-width: 760px) {
+    .menybox {
+        padding-left: 260px; 
+    }    
+}
+
+
+/**** hamburger-menyn ****/
+.icon-bar {
+    background-color: #FFFFFF;
+    width: 28px;
+}
+
+/********************************/
+
+ul li {
+    list-style-type: none;
+    /*display: inline-block;*/
+}
+
+a {
+    font-family: 'Cutive Mono';
+    font-size:  19px;
+    line-height: normal;
+    color: #FFFFFF;
+    cursor: pointer;
+    /*font-weight: bold;*/
+}
+
+a:hover {
+    color: #BFD3C3;
+    background: #5C5C5D !important;
+    text-decoration: underline !important;
+}
+
+
+

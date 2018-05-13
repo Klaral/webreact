@@ -1,0 +1,49 @@
+.row {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    /*background-color: #BFD3C3;*/
+    border-left: 1px black solid;
+    border-right: 1px black solid;
+}
+
+.pic1 {
+    height: 360px;
+    width: 240px;
+    margin-right: 25px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.pic2 {
+    height: 360px;
+    width: 380px;
+    margin-right: 25px; 
+}
+
+.pic3 {
+    height: 360px;
+    width: 250px;
+}
+
+@media screen and (max-width: 760px) {
+    .pic1 {
+        height: 50%;
+        width: 100%;
+    }    
+}
+
+@media screen and (max-width: 760px) {
+    .pic2 {
+        height: 50%;
+        width: 100%;
+    }    
+}
+
+@media screen and (max-width: 760px) {
+    .pic3 {
+        height: 50%;
+        width: 100%;
+        margin-top: 10px;
+        
+    }    
+}

@@ -1,0 +1,42 @@
+@media screen and (min-width: 760px) {
+    .heminfo {
+        padding-top: 130px;
+        padding-bottom: 130px;
+    }    
+}
+
+.hembild1{
+    width: 290px;
+    margin: 0px 43px 0px 0px;
+    cursor: pointer;
+}
+
+.hembild2{
+    width: 290px;
+    margin: 0px 43px 0px 0px; 
+    cursor: pointer;
+}
+
+.hembild3{
+    width: 290px;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 760px) {
+    .hembild1 {
+        /*height: 50%;*/
+        width: 100%;
+    }    
+}
+
+@media screen and (max-width: 760px) {
+    .hembild2 {
+        width: 100%;
+    }    
+}
+
+@media screen and (max-width: 760px) {
+    .hembild3 {
+        width: 100%;
+    }    
+}
