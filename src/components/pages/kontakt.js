@@ -18,7 +18,7 @@ class Kontakt extends Component {
          <li>info@mail.se</li>
         </ul>
          
-          <img src="assets/karta.png" className="kartabild1" />
+          <img src="assets/karta.png" alt="adress" className="kartabild1" />
         
         </div>
       </div> 

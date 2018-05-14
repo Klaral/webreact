@@ -7,9 +7,9 @@ class Footer extends Component {
         
       <footer className="footer">
         
-         <img src="assets/faceb.png" className="socialm" />
-         <img src="assets/instagram.png" className="socialm" />
-         <img src="assets/mail.png" className="socialm" />
+         <img src="assets/faceb.png" alt="facebook" className="socialm" />
+         <img src="assets/instagram.png" alt="instagram" className="socialm" />
+         <img src="assets/mail.png" alt="mail" className="socialm" />
          
         
       </footer>

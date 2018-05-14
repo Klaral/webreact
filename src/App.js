@@ -25,7 +25,7 @@ export default App;*/
 import React, { Component } from 'react';
 import logo from './logo.png';
 import './App.css';
-import { BrowserRouter, Route, NavLink } from 'react-router-dom';
+import { BrowserRouter, Route } from 'react-router-dom';
 
 
 import Navbar from './components/navbarComponent/navbar';

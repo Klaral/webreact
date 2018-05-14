@@ -9,7 +9,7 @@ class Bokatid extends Component {
       <div className="container-fluid">
         <div className="bokainfo">
         
-         <img src="assets/bokningssystem.png" className="tidbild" />
+         <img src="assets/bokningssystem.png" alt="boka" className="tidbild" />
          
         </div>
       </div> 

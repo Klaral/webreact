@@ -19,7 +19,7 @@ class Omoss extends Component {
         </p>
         
         
-        <img src="assets/ossbild.jpg" className="ossbild1" />
+        <img src="assets/ossbild.jpg" alt="vi" className="ossbild1" />
         
         
         </div>

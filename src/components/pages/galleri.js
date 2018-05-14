@@ -11,19 +11,19 @@ class Galleri extends Component {
         
         <div className="row"> 
           <div className="col-sm-12">
-            <img src="assets/bilder.jpg" className="pic1" />
-            <img src="assets/bilder.jpg" className="pic2" />
-            <img src="assets/bilder.jpg" className="pic3" />
+            <img src="assets/bilder.jpg" alt="foto" className="pic1" />
+            <img src="assets/bilder.jpg"  alt="foto" className="pic2" />
+            <img src="assets/bilder.jpg" alt="foto" className="pic3" />
           </div>
           <div class="col-sm-12" id="">
-            <img src="assets/bilder.jpg" className="pic1" />
-            <img src="assets/bilder.jpg" className="pic2" />
-            <img src="assets/bilder.jpg" className="pic3" />
+            <img src="assets/bilder.jpg" alt="foto" className="pic1" />
+            <img src="assets/bilder.jpg" alt="foto" className="pic2" />
+            <img src="assets/bilder.jpg" alt="foto" className="pic3" />
           </div> 
           <div class="col-sm-12" id="">
-            <img src="assets/bilder.jpg" className="pic1" />
-            <img src="assets/bilder.jpg" className="pic2" />
-            <img src="assets/bilder.jpg" className="pic3" />
+            <img src="assets/bilder.jpg" alt="foto" className="pic1" />
+            <img src="assets/bilder.jpg" alt="foto" className="pic2" />
+            <img src="assets/bilder.jpg" alt="foto" className="pic3" />
            </div> 
   
         </div>
