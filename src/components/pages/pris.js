@@ -13,15 +13,13 @@ class Pris extends Component {
         </h1>
         
         <ul className="pris">
-         <li>Lorem ipsum 250kr</li><br />
-         <li>Curabitur cursus 300kr</li><br />
-         <li>Duis quis orci suscipit 650kr</li><br />
-         <li>Duis quis suscipit 650kr</li><br />
-         <li>Lorem ipsum 700kr</li><br />
-         <li>Duis quis orci suscipit 1350kr</li><br />
-         <li>Duis orci suscipit 1500kr</li><br />
-         <li>Curabitur cursus 1600kr</li><br />
-         <li>Duis quis orci suscipit 1900kr</li>
+         <li>Nytt set ögonfransar 1000kr</li>
+         <li>Påfyllning inom 4 veckor 450kr</li>
+         <li>Påfyllning inom 3 veckor 350kr</li>
+         <li>Påfyllning inom 2 veckor 250kr</li>
+         <li>Nytt set akrylnaglar 500kr</li>
+         <li>Påfyllning 400kr</li>
+         <li>Shallac behandling 250kr</li>
         </ul>
         
         </div>

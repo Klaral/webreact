@@ -38,7 +38,6 @@ body{
 .App {
    /* border: 6px solid green; */
     /*background-color: #BFD3C3;*/
-    
 }
 
 .App-logo{
@@ -66,9 +65,10 @@ body{
 }
 
 
-h1, p, ul {
+h1, h3, p, ul {
    font-family: 'Cutive Mono'; 
 }
+
 
 
 

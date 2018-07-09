@@ -13,9 +13,9 @@ class Omoss extends Component {
         </h1>
         
         <p className="oss">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque tempor scelerisque felis a mattis. Mauris sed ultricies tortor. Nam nec commodo magna. Donec eget semper nisi. Donec fermentum eu justo sit amet fringilla. Maecenas ac ligula id dui feugiat efficitur.</p> 
+        Välkommen till Studio 8, en liten salong i centrala Göteborg. Salongen ligger på Chalmersgatan 25 som är en parallellgata till Avenyn.</p> 
         <p className="oss">
-        Vivamus sit amet nisl pharetra, porttitor nisi et, faucibus est. Integer sed massa finibus est pellentesque ornare ut non velit. Praesent maximus iaculis felis, id auctor velit malesuada vel.
+        Salongen drivs av Michaela som är utbildad ögonfransstylist. Hon utför behandlingar och utbildningar inom ögonfransförlängning. Salongen är ständigt under utveckling för att kunna erbjuda det mesta inom skönhet. Hos oss är alla välkomna!
         </p>
         
         

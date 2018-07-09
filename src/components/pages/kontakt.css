@@ -6,7 +6,7 @@
 }
 
 .adress{
-    margin-left: 90px;
+    margin-left: 140px;
 }
 
 @media screen and (max-width: 760px) {
@@ -18,8 +18,8 @@
 
 @media screen and (min-width: 760px) {
     .kartabild1 {
-        margin-left: 130px;
-        width: 700px;
+        margin-left: 180px;
+        width: 600px;
         height: 300px;
     }    
 }
