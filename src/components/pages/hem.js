@@ -11,7 +11,7 @@ class Hem extends Component {
       <div className="container-fluid">
         <div className="heminfo">
         
-        <h1>S T U D I O 8...</h1>
+        <h1>S T U D I O 8...!</h1>
         
         <div className="hembild">
          <img src="assets/room.png" alt="boka" className="hembild1" /> 
